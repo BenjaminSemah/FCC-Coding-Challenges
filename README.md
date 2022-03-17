@@ -3,7 +3,7 @@
 ## [Walkthrough & Solution] Algorithm & Data Structure Challenges
 >This repo is a collection of JavaScript Solutions and Walkthroughs to common coding challenges. The challenges in this repo are taken from the FreeCodeCamp curriculum. 
 >
->If you are beginner, the basic section will be a good place to start. These challenges are beginner friendly and you can follow along just fine. If you're a more >advanced learner, you may choose to head to the intermediate section.
+>If you are beginner, the basic section will be a good place to start. These challenges are beginner friendly and you can follow along just fine. If you're a more advanced learner, you may choose to head to the intermediate section.
 
 Each solution provided offers the following sections;
 - The Challenge
