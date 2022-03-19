@@ -6,13 +6,18 @@
 >If you are beginner, the basic section will be a good place to start. These challenges are beginner friendly and you can follow along just fine. If you're a more advanced learner, you may choose to head to the intermediate section.
 
 Each solution provided offers the following sections;
-- The Challenge
-- Understanding the Challenge 
-- Pseudocode
-- Solving the Challenge
-- Final Solution
 
-### Basic Algorithm Scripting
+✅ The Challenge
+
+✅ Understanding the Challenge 
+
+✅ Pseudocode
+
+✅ Solving the Challenge
+
+✅ Final Solution
+
+## 🥉 Basic Algorithm Scripting
 <details>
   <summary>
     <b id="basic-algos">Click for all the basic challenges</b>
@@ -23,9 +28,13 @@ Each solution provided offers the following sections;
   [02/16. Reverse a String](https://github.com/BenjaminSemah/FCC-Coding-Challenges/blob/main/01.%20Basic%20Algorithm%20Scripting/02.%20Reverse%20a%20string/00.%20walkthrough.md)
     
   [03/16. Factorialize a Number](https://github.com/BenjaminSemah/FCC-Coding-Challenges/blob/main/01.%20Basic%20Algorithm%20Scripting/03.%20Factorialize%20a%20Number/00.%20walkthrough.md)
+  
+  [04/16. Find the Longest Word in a String](https://github.com/BenjaminSemah/FCC-Coding-Challenges/blob/main/01.%20Basic%20Algorithm%20Scripting/04.%20Find%20Longest%20Word%20in%20a%20String/00.%20walkthrough.md)
+  
+  [05/16. Return Largest Numbers in Arrays](https://github.com/BenjaminSemah/FCC-Coding-Challenges/blob/main/01.%20Basic%20Algorithm%20Scripting/05.%20Return%20Largest%20Numbers%20in%20Arrays/00.%20walkthrough.md)
 </details>
 
-### Intermediate Algorithm Scripting
+## 🥈 Intermediate Algorithm Scripting
 <details>
   <summary>
     <b id="basic-algos">Click for all the intermediate challenges</b>
