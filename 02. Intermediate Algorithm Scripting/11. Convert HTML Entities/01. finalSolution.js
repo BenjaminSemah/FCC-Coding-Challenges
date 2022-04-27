@@ -3,8 +3,8 @@
 function convertHTML(str) {
   const strSplit = str.split('')
   
-  const strMap = strSplit.map(item => {
-    switch (item) {
+  const strMap = strSplit.map(character => {
+    switch (character) {
     case "&":
       return "&amp;";
     case "<":
@@ -16,7 +16,7 @@ function convertHTML(str) {
     case "'":
       return "&apos;";
     default:
-      return item;
+      return character;
     }
   });
 
@@ -25,4 +25,4 @@ function convertHTML(str) {
   return finalStr;
 }
 
-convertHTML("Dolce & Gabbana");
+convertHTML("Dolce & Gabbana") // Dolce &amp; Gabbana 
